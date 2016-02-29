@@ -1,6 +1,6 @@
 {
   "name": "awesome-typescript-loader",
-  "version": "0.15.10",
+  "version": "0.15.11",
   "description": "Awesome TS loader for webpack",
   "main": "dist.babel/index.js",
   "scripts": {
@@ -62,7 +62,7 @@
     "ps-node": "0.0.5",
     "rimraf": "^2.5.0",
     "tslint": "^3.3.0-dev.1",
-    "typescript": "^1.8.0",
+    "typescript": "^1.8.2",
     "webpack": "^1.12.12",
     "webpack-dev-server": "^1.14.1"
   }
