@@ -2,7 +2,7 @@
   "name": "awesome-typescript-loader",
   "version": "0.16.0",
   "description": "Awesome TS loader for webpack",
-  "main": "dist.babel/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "grunt": "grunt",
     "prepublish": "grunt",
@@ -15,7 +15,7 @@
   "author": "Stanislav Panferov <fnight.m@gmail.com> (http://panferov.me/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-panferov/awesome-typescript-loader.git"
+    "url": "https://github.com/m4mbart/awesome-typescript-loader.git"
   },
   "license": "MIT",
   "keywords": [
